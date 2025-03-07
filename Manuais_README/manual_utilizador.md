@@ -1,10 +1,10 @@
 # Manual do Utilizador
 
 ## Introdução
-Bem-vindo ao **4 em Linha**</span>! Este manual explica como jogar, navegar pelos menus, entender as regras e aproveitar todos os recursos do jogo.
+Bem-vindo ao **4 em Linha**! Este manual explica como jogar, navegar pelos menus, entender as regras e aproveitar todos os recursos do jogo.
 
 ## Objetivo do Jogo
-O objetivo do **4 em Linha**</span> é alinhar quatro peças consecutivas da mesma cor na horizontal, vertical ou diagonal antes do adversário.
+O objetivo do **4 em Linha** é alinhar quatro peças consecutivas da mesma cor na horizontal, vertical ou diagonal antes do adversário.
 
 ## Menu Principal
 Ao iniciar o jogo, o menu principal oferece as seguintes opções:
@@ -63,7 +63,31 @@ Escolha o modo de jogo:
 | | | |X| | | |
 ---------------
 ```
-
+### Jogador 2 insere uma peça na coluna 3:
+```
+ 1 2 3 4 5 6 7
+---------------
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | |0|X| | | |
+---------------
+```
+### Final da partida
+```
+1 2 3 4 5 6 7
+| | | | | | | |
+| | | | | | | |
+| | | |X| | | |
+| | | |X| | | |
+| | |O|X| | | |
+| | |O|X|O| | |
+---------------
+Player 1 ganhou!
+Jogo salvo com sucesso!
+```
 O jogo continua até que um jogador vença ou o tabuleiro fique cheio.
 
 ## Regras
@@ -80,7 +104,6 @@ O jogo continua até que um jogador vença ou o tabuleiro fique cheio.
 ## Histórico de Jogos
 - Guarda as partidas jogadas, incluindo nomes dos jogadores e resultado final.
 - Possibilita a revisão do tabuleiro final de cada partida.
-
 
 
 
