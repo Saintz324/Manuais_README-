@@ -1,4 +1,4 @@
-## Como compilar/Eexcutar
+## Como compilar/Excutar
 ----------------------------------
 Em **enexo** encontra-se o código fonte do nosso projeto, este pode ser corrido atravez de um compilador que já contenha o **MinGW** instalado.
 
