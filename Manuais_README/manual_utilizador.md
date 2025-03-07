@@ -1,10 +1,10 @@
 # Manual do Utilizador
 
 ## Introdução
-Bem-vindo ao **4 em Linha**! Este manual explica como jogar, navegar pelos menus, entender as regras e aproveitar todos os recursos do jogo.
+Bem-vindo ao <span style="color: #1E90FF;">**4 em Linha**</span>! Este manual explica como jogar, navegar pelos menus, entender as regras e aproveitar todos os recursos do jogo.
 
 ## Objetivo do Jogo
-O objetivo do **4 em Linha** é alinhar quatro peças consecutivas da mesma cor na horizontal, vertical ou diagonal antes do adversário.
+O objetivo do <span style="color: #1E90FF;">**4 em Linha**</span> é alinhar quatro peças consecutivas da mesma cor na horizontal, vertical ou diagonal antes do adversário.
 
 ## Menu Principal
 Ao iniciar o jogo, o menu principal oferece as seguintes opções:
